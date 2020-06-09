@@ -27,6 +27,7 @@ by Tesla as pre-delivery issue(s).
 - [ ] Inspect every glass and make sure there are no scratches or cracks already. 
 - [ ] Inspect paint on the outside and the door jams, ensure panel corners do not have chips
 - [ ] Check for damage to black rocker panels
+- [ ] Check to ensure panel under car is bolted securely to bottom of car and won't fall off during driving
 
 ## Interior
 
